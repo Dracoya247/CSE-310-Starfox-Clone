@@ -9,6 +9,6 @@ People:
   
   Aria Menke: aria_menke@byui.edu
   
-  Nathan -:
+  Nathan :
   
-  Sam -:
+  Sam :
